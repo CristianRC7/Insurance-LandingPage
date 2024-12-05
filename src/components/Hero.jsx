@@ -39,7 +39,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
         <div className="text-center text-white space-y-8">
           <div>
-            <h1 className="text-5xl font-bold mb-4">Bienvenido a InsuranceLandingPage</h1>
+            <h1 className="text-5xl font-bold mb-4">Bienvenido a LandingPage</h1>
             <p className="text-xl">Asegurando Tranquilidad</p>
           </div>
           
